@@ -65,7 +65,7 @@ roles:
    description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including ":"  successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting ";"  design and implementation of first virtualised environments with automated self service provisioning ";" developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50%. <br/> As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
  - title: Global Desktop Manager - Global IT design
    start: 2005
-   end: 20006
+   end: 2006
    employer: Clifford Chance
    description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution ";"  developed a global reporting reporting solution for security patch delivery ";"  the introduction of virtualised test beds for all OS, patch and application testing ";"  ran global and regional team technical briefs ";"  ran internal customer solution updates and assurance
 
@@ -104,8 +104,8 @@ Qualifications:
 
 #This section is optional - other things going on
 
-Other things I get involved in: |
-   <a href="https://kube.academy/" taget="_blank"><strong>Kubernetes Academy</strong>: KubeAcademy courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.<br/><br/>
+#Other things I get involved in: |
+#   <a href="https://kube.academy/" taget="_blank"><strong>Kubernetes Academy</strong>. KubeAcademy courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.<br/><br/>
 
 
 #This section is optional - embeds slideshows from speakerdeck
