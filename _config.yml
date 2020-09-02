@@ -80,7 +80,29 @@ education:
    date: 2003
    subject: Oncology
    school: University College London
-    
+
+#This section is optional (as is the image link below)
+Qualifications:
+    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+    courses:
+     - title: Certified Kubernetes Administrator
+       link: https://www.cncf.io/certification/cka/
+        optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+       date: May, 2019
+     - title: Certified Kubernetes Administrator - Developer
+       link: https://www.cncf.io/certification/ckad/
+       optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+       date: May, 2019
+     - title: Red Hat Certified Engineer
+       link: https://www.redhat.com/en/services/certification/rhce
+       optionalimage: https://www.whizlabs.com/blog/wp-content/uploads/2019/02/rhce-preparation-guide.png
+       date: May, 2017
+     - title: Red Hat Certified in Automation with Ansible
+       link: https://www.redhat.com/en/services/certification/rhcs-ansible-automation
+       optionalimage: https://encrypted-tbn0.gstatic.com/images?#q=tbn%3AANd9GcRZzN4YfxzuXh6uATWhmXHAEJ6917ocAzWNKg&usqp=CAU
+       date: May, 2018
+   
+   
       
 
 #This section is optional (as is the image link below)
