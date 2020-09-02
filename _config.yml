@@ -52,22 +52,22 @@ roles:
    start: 2018
    end: 2019
    employer: Heptio
-   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, was successfully acquired by VMware in 2018. <br/> Engagements included ":" Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind ";" Customer engagements around Kubernetes and DevOps technologies and best practice ";" Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations ";" Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
+   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, was successfully acquired by VMware in 2018.  Engagements included ":" Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind ";" Customer engagements around Kubernetes and DevOps technologies and best practice ";" Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations ";" Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
  - title: PreSales Specialist System Engineer
    start: 2016
    end: 2018
    employer: RedHat
-   description: RedHat is the world's leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies. <br/> Working as a PreSales technical specialist, I worked closely with the Sales teams to perform technical demonstrations and on-site PoCs around Automation - CloudForms, Ansible, Openshift, docker, Kubernetes, Cloud Management, Cloud provisioning;  I was involved in the evangelism of Red Hat solutions, products and culture at external meet ups, tech-exchanges and roadshows.
+   description: RedHat is the world's leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies. Working as a PreSales technical specialist, I worked closely with the Sales teams to perform technical demonstrations and on-site PoCs around Automation - CloudForms, Ansible, Openshift, docker, Kubernetes, Cloud Management, Cloud provisioning;  I was involved in the evangelism of Red Hat solutions, products and culture at external meet ups, tech-exchanges and roadshows.
  - title: Lead Architect - Enterprise Management
    start: 2006
    end: 2016
    employer: HP Global Engineering / Fujitsu Enterprise Service
-   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including ":"  successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting ";"  design and implementation of first virtualised environments with automated self service provisioning ";" developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50%. <br/> As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
+   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including ":"  successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting ";"  design and implementation of first virtualised environments with automated self service provisioning ";" developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50"%". As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
  - title: Global Desktop Manager - Global IT design
    start: 2005
    end: 2006
    employer: Clifford Chance
-   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution ";"  developed a global reporting reporting solution for security patch delivery ";"  the introduction of virtualised test beds for all OS, patch and application testing ";"  ran global and regional team technical briefs ";"  ran internal customer solution updates and assurance
+   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions.  Here I worked on streamlining the content distribution solution ";"  developed a global reporting reporting solution for security patch delivery ";"  the introduction of virtualised test beds for all OS, patch and application testing ";"  ran global and regional team technical briefs ";"  ran internal customer solution updates and assurance
 
 #Education is required
 education:
@@ -80,32 +80,34 @@ education:
    date: 2003
    subject: Oncology
    school: University College London
+    
+      
 
 #This section is optional (as is the image link below)
-Qualifications:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Certified Kubernetes Administrator
-      link: https://www.cncf.io/certification/cka/
-      optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
-      date: May, 2019
-    - title: Certified Kubernetes Administrator - Developer
-      link: https://www.cncf.io/certification/ckad/
-      optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
-      date: May, 2019
-    - title: Red Hat Certified Engineer
-      link: https://www.redhat.com/en/services/certification/rhce
-      optionalimage: https://www.whizlabs.com/blog/wp-content/uploads/2019/02/rhce-preparation-guide.png
-      date: May, 2017
-    - title: Red Hat Certified in Automation with Ansible
-      link: https://www.redhat.com/en/services/certification/rhcs-ansible-automation
-      optionalimage: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZzN4YfxzuXh6uATWhmXHAEJ6917ocAzWNKg&usqp=CAU
-      date: May, 2018
+# Qualifications:
+#    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#    courses:
+#     - title: Certified Kubernetes Administrator
+#       link: https://www.cncf.io/certification/cka/
+#        optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+#       date: May, 2019
+#     - title: Certified Kubernetes Administrator - Developer
+#       link: https://www.cncf.io/certification/ckad/
+#       optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+#       date: May, 2019
+#     - title: Red Hat Certified Engineer
+#       link: https://www.redhat.com/en/services/certification/rhce
+#       optionalimage: https://www.whizlabs.com/blog/wp-content/uploads/2019/02/rhce-preparation-guide.png
+#       date: May, 2017
+#     - title: Red Hat Certified in Automation with Ansible
+#       link: https://www.redhat.com/en/services/certification/rhcs-ansible-automation
+#       optionalimage: https://encrypted-tbn0.gstatic.com/images?#q=tbn%3AANd9GcRZzN4YfxzuXh6uATWhmXHAEJ6917ocAzWNKg&usqp=CAU
+#       date: May, 2018
 
 #This section is optional - other things going on
 
 #Other things I get involved in: |
-#   <a href="https://kube.academy/" taget="_blank"><strong>Kubernetes Academy</strong>. KubeAcademy courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.<br/><br/>
+#   <a href="https://kube.academy/" taget="_blank"><strong>Kubernetes Academy</strong>. KubeAcademy #courses are composed of a series of bite-size video lessons developed by expert instructors. These #courses will help you understand new Kubernetes concepts for free—no strings attached.<br/><br/>
 
 
 #This section is optional - embeds slideshows from speakerdeck
@@ -119,66 +121,3 @@ Qualifications:
 #    - title: Agile Machine Learning - from Theory to Production
 #      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
 #      conference: W-JAX Conference, Munich 2017 (London 2017)
-
-
-intro: |
-  I am a motivated IT Professional with 19+ years industry experience, covering Enterprise Management, Containers, Kubernetes, Cloud and Virtualisation, Desired state, Automation, DevOps, Security and Compliance, Linux and Wintel. I possess excellent communication and organisational skills and work well in a team or isolation. I have engaged with C-level executives for design reviews, strategic direction, assurance briefs and product updates and can relate effectively to technical and sales teams across a broad range of disciplines. I am a dynamic person with a flexible, focused and professional approach to work. I seek a position that will provide new learning and networking opportunities, responsibilities and intellectual challenges. 
- I am currently working as a Cloud Native Architect, for VMware in the APJ region, having moved over from Heptio.
- 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Enterprise Management and Desired State </strong>: 
-   - 19+ years’ experience Orchestration, Automation and Management
-   - 3+ years’ experience with Kubernetes – Heptio, Openshift, Azure
-   - Architecture and design for multiple medium and large scale enterprises 
-   - Instance provisioning, management, maintenance - on-prem and cloud
-   - Desired State Management design and development (Kubernetes, Openshift, Cloudforms, Ansible, Radia, Puppet)
-   - Windows OS deployment using PXE, Linux Service OS, WinPE and Radia
-   - Application packaging and deployment - docker, AppV, windows installer
-   - Solutions design ranging from critical to strategic 
-   - Comprehensive customer consultation and technical sales
-
-   <strong>Cloud and Virtualisation </strong>: 
-   - 9+ years’ experience Public Cloud, App-V, VSphere, HyperV, RHV, HP Helion Cloud (Openstack)
-   - Hybrid Cloud Management – Tanzu portfolio, CloudForms, VRealise
-   - Desktop management design for HP Helion Cloud (SCCM, Radia), Ansible
-   - Citrix (XenApp/XenDesktop hosted on HyperV) design for integration with Radia and SCCM
-   - RHV, SCVMM and VCenter operation for cloud configuration
-   - VMware Certified Professional (VMware Infrastructure 3, vSphere 4 and 5)
-   
-   <strong>Containerisation </strong>: 
-   - 4+ years experience docker, Kubernetes, Openshift, AppV
-   - Design of a windows containerised application management infrastructure (AppV) within HP Helion Cloud
-
-   <strong>Automation and Scripting</strong>: 
-   - Ansible and Ansible Tower
-   - Automation of ESX deployment using Kickstart and Radia
-   - CRD and Operator development using Operator framework and kubebuilder
-   - Development of a content synchronisation RESTful web service, and orchestration with HP Ops Orchestrator
-   - Development of monitoring dashboards for migration success
-   - Development of integrated solutions for successful kubernetes adoption
-   - Automation of virtualised applications and VM deployment
-   - Automated configuration of virtual machines in HP PaaS offering
-   - Automation of SCCM VM servers install within HP Helion Cloud
-   - Extensive knowledge of scripting languages TCL, VBS, PowerShell, Rexx, bootstrap, html
-   - Some knowledge of languages go, Java, Jscript, python, ruby, jQuery
-
-  
-  
-#List of interesting Github repo/projects to include - optional
-#github:
-# - robhinds/robhinds.github.io
-# - robhinds/ScaLambda
-# - robhinds/opinionated-akka-http
-# - robhinds/food2vec
-# - robhinds/microservices
-# - robhinds/spring-social-geeklist
-# - robhinds/spring-social-stackoverflow
-# - robhinds/genotype
-# - robhinds/footweets
-# - robhinds/ElasticSearchGradle
-
-#Stackoverflow flair is optional
-#stackoverflow:
-#   profileurl: https://stackoverflow.com/users/258813/rhinds
-#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
