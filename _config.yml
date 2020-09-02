@@ -87,7 +87,7 @@ coursera:
     courses:
      - title: Certified Kubernetes Administrator
        link: https://www.cncf.io/certification/cka/
-        optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+       optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
        date: May, 2019
      - title: Certified Kubernetes Administrator - Developer
        link: https://www.cncf.io/certification/ckad/
