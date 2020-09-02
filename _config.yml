@@ -52,7 +52,7 @@ roles:
    start: 2018
    end: 2019
    employer: Heptio
-   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, was successfully acquired by VMware in 2018. <br/> Engagements included: Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind; Customer engagements around Kubernetes and DevOps technologies and best practice; Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations; Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
+   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, was successfully acquired by VMware in 2018. <br/> Engagements included ":" Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind ";" Customer engagements around Kubernetes and DevOps technologies and best practice ";" Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations ";" Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
  - title: PreSales Specialist System Engineer
    start: 2016
    end: 2018
@@ -62,12 +62,12 @@ roles:
    start: 2006
    end: 2016
    employer: HP Global Engineering / Fujitsu Enterprise Service
-   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including: successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting; design and implementation of first virtualised environments with automated self service provisioning; developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50%. <br/> As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
+   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including ":"  successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting ";"  design and implementation of first virtualised environments with automated self service provisioning ";" developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50%. <br/> As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
  - title: Global Desktop Manager - Global IT design
    start: 2005
    end: 20006
    employer: Clifford Chance
-   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution; developed a global reporting reporting solution for security patch delivery; the introduction of virtualised test beds for all OS, patch and application testing; ran global and regional team technical briefs; ran internal customer solution updates and assurance
+   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution ";"  developed a global reporting reporting solution for security patch delivery ";"  the introduction of virtualised test beds for all OS, patch and application testing ";"  ran global and regional team technical briefs ";"  ran internal customer solution updates and assurance
 
 #Education is required
 education:
