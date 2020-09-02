@@ -82,8 +82,8 @@ education:
    school: University College London
 
 #This section is optional (as is the image link below)
-Qualifications:
-    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+coursera:
+    profileurl: https://www.google.com
     courses:
      - title: Certified Kubernetes Administrator
        link: https://www.cncf.io/certification/cka/
