@@ -47,8 +47,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: VMware
-   description: This has many aspects, including: leading technical discussions and presentations for the sales organization during key sales interactions; Strategic solution design for cloud native technologies and bring the possibilities alive for the customers; Enable sales and the wider VMware team in emerging technologies through training, demos and writeups; Test and reviewer for specific kubernetes projects internally – including cAPZ and cAPV; Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements
-   Products include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
+   description: This has many aspects, including- leading technical discussions and presentations for the sales organization during key sales interactions, Strategic solution design for cloud native technologies and bring the possibilities alive for the customers, Enable sales and the wider VMware team in emerging technologies through training, demos and writeups, Test and reviewer for specific kubernetes projects internally – including cAPZ and cAPV, Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements, Products include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
  - title: Field Engineer
    start: 2018
    end: 2019
