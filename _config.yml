@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Olive Power
+twitter_username: opowero
+name: Olive Power
 
 # Build settings
 markdown: kramdown
@@ -10,123 +10,176 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: https://thekubehow.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/opowbow
+ - title: KubeAcademy
+   url: https://kube.academy/instructors
+ - title: Podlets
+   url: https://thepodlets.io/
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/olive-power-488870138/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
+ - Kubernetes
+ - Heptio
  - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - Tanzu
+ - Radia
+ - Enterprise Management
+ - Go
+ - Cloudforms
+ - ansible
+ - kubebuilder
+ - infrastructure
+ - containers
+ - CKA
+ - technical architecture
+ - education
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Staff Emerging Tech Systems Engineer
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+   employer: VMware
+   description: This has many aspects, including: leading technical discussions and presentations for the sales organization during key sales interactions; Strategic solution design for cloud native technologies and bring the possibilities alive for the customers; Enable sales and the wider VMware team in emerging technologies through training, demos and writeups; Test and reviewer for specific kubernetes projects internally – including cAPZ and cAPV; Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements
+   Products include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
+ - title: Field Engineer
+   start: 2018
+   end: 2019
+   employer: Heptio
+   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, was successfully acquired by VMware in 2018. <br/> Engagements included: Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind; Customer engagements around Kubernetes and DevOps technologies and best practice; Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations; Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
+ - title: PreSales Specialist System Engineer
    start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   end: 2018
+   employer: RedHat
+   description: RedHat is the world's leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies. <br/> Working as a PreSales technical specialist, I worked closely with the Sales teams to perform technical demonstrations and on-site PoCs around Automation - CloudForms, Ansible, Openshift, docker, Kubernetes, Cloud Management, Cloud provisioning;  I was involved in the evangelism of Red Hat solutions, products and culture at external meet ups, tech-exchanges and roadshows.
+ - title: Lead Architect - Enterprise Management
+   start: 2006
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
+   employer: HP Global Engineering / Fujitsu Enterprise Service
+   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including: successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting; design and implementation of first virtualised environments with automated self service provisioning; developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50%. <br/> As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
+ - title: Global Desktop Manager - Global IT design
    start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   end: 20006
+   employer: Clifford Chance
+   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution; developed a global reporting reporting solution for security patch delivery; the introduction of virtualised test beds for all OS, patch and application testing; ran global and regional team technical briefs; ran internal customer solution updates and assurance
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Bachelor of Science - (B.Sc.)
+   date: 1993
+   subject: Industrial Biochemistry
+   school: University of Limerick
+   
+ - level: Doctorate of Philosophy (Ph.D)
    date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   subject: Oncology
+   school: University College London
 
 #This section is optional (as is the image link below)
-coursera:
+Qualifications:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Certified Kubernetes Administrator
+      link: https://www.cncf.io/certification/cka/
+      optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+      date: May, 2019
+    - title: Certified Kubernetes Administrator - Developer
+      link: https://www.cncf.io/certification/ckad/
+      optionalimage: https://miro.medium.com/max/840/1*gl0UTVp45-TpCXnIWo5gQQ.png
+      date: May, 2019
+    - title: Red Hat Certified Engineer
+      link: https://www.redhat.com/en/services/certification/rhce
+      optionalimage: https://www.whizlabs.com/blog/wp-content/uploads/2019/02/rhce-preparation-guide.png
+      date: May, 2017
+    - title: Red Hat Certified in Automation with Ansible
+      link: https://www.redhat.com/en/services/certification/rhcs-ansible-automation
+      optionalimage: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZzN4YfxzuXh6uATWhmXHAEJ6917ocAzWNKg&usqp=CAU
+      date: May, 2018
+
+#This section is optional - other things going on
+
+Other things I get involved in: |
+   <a href="https://kube.academy/" taget="_blank"><strong>Kubernetes Academy</strong>: KubeAcademy courses are composed of a series of bite-size video lessons developed by expert instructors. These courses will help you understand new Kubernetes concepts for free—no strings attached.<br/><br/>
+
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+#   profileurl: https://speakerdeck.com/robhinds
+#   talks:
+#    - title: Product Management for Engineers
+#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#      conference: API Conference, Berlin 2018
+#    - title: Agile Machine Learning - from Theory to Production
+#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
-
+  I am a motivated IT Professional with 19+ years industry experience, covering Enterprise Management, Containers, Kubernetes, Cloud and Virtualisation, Desired state, Automation, DevOps, Security and Compliance, Linux and Wintel. I possess excellent communication and organisational skills and work well in a team or isolation. I have engaged with C-level executives for design reviews, strategic direction, assurance briefs and product updates and can relate effectively to technical and sales teams across a broad range of disciplines. I am a dynamic person with a flexible, focused and professional approach to work. I seek a position that will provide new learning and networking opportunities, responsibilities and intellectual challenges. 
+ I am currently working as a Cloud Native Architect, for VMware in the APJ region, having moved over from Heptio.
+ 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Enterprise Management and Desired State </strong>: 
+   - 19+ years’ experience Orchestration, Automation and Management
+   - 3+ years’ experience with Kubernetes – Heptio, Openshift, Azure
+   - Architecture and design for multiple medium and large scale enterprises 
+   - Instance provisioning, management, maintenance - on-prem and cloud
+   - Desired State Management design and development (Kubernetes, Openshift, Cloudforms, Ansible, Radia, Puppet)
+   - Windows OS deployment using PXE, Linux Service OS, WinPE and Radia
+   - Application packaging and deployment - docker, AppV, windows installer
+   - Solutions design ranging from critical to strategic 
+   - Comprehensive customer consultation and technical sales
+
+   <strong>Cloud and Virtualisation </strong>: 
+   - 9+ years’ experience Public Cloud, App-V, VSphere, HyperV, RHV, HP Helion Cloud (Openstack)
+   - Hybrid Cloud Management – Tanzu portfolio, CloudForms, VRealise
+   - Desktop management design for HP Helion Cloud (SCCM, Radia), Ansible
+   - Citrix (XenApp/XenDesktop hosted on HyperV) design for integration with Radia and SCCM
+   - RHV, SCVMM and VCenter operation for cloud configuration
+   - VMware Certified Professional (VMware Infrastructure 3, vSphere 4 and 5)
+   
+   <strong>Containerisation </strong>: 
+   - 4+ years experience docker, Kubernetes, Openshift, AppV
+   - Design of a windows containerised application management infrastructure (AppV) within HP Helion Cloud
+
+   <strong>Automation and Scripting</strong>: 
+   - Ansible and Ansible Tower
+   - Automation of ESX deployment using Kickstart and Radia
+   - CRD and Operator development using Operator framework and kubebuilder
+   - Development of a content synchronisation RESTful web service, and orchestration with HP Ops Orchestrator
+   - Development of monitoring dashboards for migration success
+   - Development of integrated solutions for successful kubernetes adoption
+   - Automation of virtualised applications and VM deployment
+   - Automated configuration of virtual machines in HP PaaS offering
+   - Automation of SCCM VM servers install within HP Helion Cloud
+   - Extensive knowledge of scripting languages TCL, VBS, PowerShell, Rexx, bootstrap, html
+   - Some knowledge of languages go, Java, Jscript, python, ruby, jQuery
+
+  
+  
+#List of interesting Github repo/projects to include - optional
+#github:
+# - robhinds/robhinds.github.io
+# - robhinds/ScaLambda
+# - robhinds/opinionated-akka-http
+# - robhinds/food2vec
+# - robhinds/microservices
+# - robhinds/spring-social-geeklist
+# - robhinds/spring-social-stackoverflow
+# - robhinds/genotype
+# - robhinds/footweets
+# - robhinds/ElasticSearchGradle
+
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: https://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
