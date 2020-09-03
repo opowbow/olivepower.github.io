@@ -83,13 +83,13 @@ education:
 
 additionalinfo: |
    I am involved in several initiative to help drive the education and adoption of cloud native principles and technologies. This includes being part of external trianings platform, podcasts and external meetups. My major contributions are as follows:
-   <strong><font color="green">Education</strong>
+   <strong><font color="green">Education</font color></strong>
    <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am an instructor
    
-   <strong><font color="green">Podcasts</strong>
+   <strong><font color="green">Podcasts</font color></strong>
    <a target="_blank" href="https://thepodlets.io/"><strong>The Podlets Podcast</strong></a>: A podcast that discusses topical cloud native subjects and concepts
 
-   <strong><font color="green">Conferances</strong>
+   <strong><font color="green">Conferances</font color></strong>
    <a target="_blank" href="https://www.youtube.com/watch?v=faVXF52u0_s"><strong>KubeCon EU 2019</strong></a>: Ready, Steady, CKA!  - A lightening talk on how to pass the CKA exam
    <a target="_blank" href="https://www.youtube.com/watch?v=8JFRw9dZU_s"><strong>Kubernetes Summit Sydney/Seoul</strong></a>: Smooth Operator - A Rough Guide to Kubernetes Operators
    <a target="_blank" href="https://www.youtube.com/watch?v=ML8rfSOi2n0"><strong>DevOps Exchange, London</strong></a>: Open Source tooling for taming your Kubernetes wild horses
