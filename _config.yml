@@ -82,17 +82,19 @@ education:
    school: University College London
 
 additionalinfo: |
-   I am involved in several initiative to help drive the education and adoption of cloud native principles and technologies.<br/> This includes being part of external trianings platform, podcasts and external meetups.<br/> My major contributions are as follows:<br/><br/>
+   I am involved in several initiative to help drive the education and adoption of cloud native principles and technologies.<br/> This includes being part of external trainings platform, podcasts and external meetups.<br/> My major contributions are as follows:<br/><br/>
    <strong><font color="green">Education</font color></strong><br/>
-   <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am an instructor<br/><br/>
-   
-   <strong><font color="green">Podcasts</font color></strong><br/>
-   <a target="_blank" href="https://thepodlets.io/"><strong>The Podlets Podcast</strong></a>: A podcast that discusses topical cloud native subjects and concepts<br/><br/><br/>
+   <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am a resident instructor<br/><br/>
+   <a target="_blank" href="https://connect.tanzu.vmware.com/KubeAcademy-Tour-APJ.html"><strong>KubeAcademy APJ Tour</strong></a>: A Series of free training on Containers and Kubernetes to be delivered in APJ over the next 4 months, at which I will be the main presenter <br/><br/>
 
-   <strong><font color="green">Conferances</font color></strong><br/>
+   <strong><font color="green">Podcasts</font color></strong><br/>
+   <a target="_blank" href="https://thepodlets.io/"><strong>The Podlets</strong></a>: A podcast that discusses topical cloud native subjects and concepts<br/><br/>
+
+   <strong><font color="green">Conferances and Meetups</font color></strong><br/>
    <a target="_blank" href="https://www.youtube.com/watch?v=faVXF52u0_s"><strong>KubeCon EU 2019</strong></a>: Ready, Steady, CKA!  - A lightening talk on how to pass the CKA exam<br/>
    <a target="_blank" href="https://www.youtube.com/watch?v=8JFRw9dZU_s"><strong>Kubernetes Summit Sydney/Seoul</strong></a>: Smooth Operator - A Rough Guide to Kubernetes Operators<br/>
    <a target="_blank" href="https://www.youtube.com/watch?v=ML8rfSOi2n0"><strong>DevOps Exchange, London</strong></a>: Open Source tooling for taming your Kubernetes wild horses<br/>
+   <a target="_blank" href="https://www.meetup.com/Singapore-Kubernetes-User-Group/events/268492981/"><strong>Singapore Kubernetes User Group</strong></a>: This is one of many worldwide groups set up to build a community tha is interested Kubernetes and other cloud native technologies, of which I am a contributor and host<br/>
 
 
 #This section is optional (as is the image link below)
