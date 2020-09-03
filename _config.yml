@@ -74,12 +74,12 @@ roles:
 education:
  - level: Bachelor of Science - (B.Sc.)
    date: 1993
-   subject: Industrial Biochemistry - First Class
+   subject: Industrial Biochemistry - University of Limerick, First Class
    school: University of Limerick
    
  - level: Doctorate of Philosophy (Ph.D)
    date: 2003
-   subject: Oncology - Distinction Class
+   subject: Oncology - University College London, Distinction Class
    school: University College London
 
 additionalinfo: |
