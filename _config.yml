@@ -47,38 +47,38 @@ roles:
    start: 2019
    end: Ongoing
    employer: VMware
-   description: This has many aspects, including leading technical discussions and presentations for the sales organization during key sales interactions; Strategic solution design for cloud native technologies and bring the possibilities alive for the customers; Enabling sales and the wider VMware team in emerging technologies through training, demos and writeups; Testing and reviewing specific kubernetes projects internally – including cAPZ and cAPV;  Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements; Kubernetes and realated products at VMware include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
+   description: This has many aspects including leading technical discussions and presentations for the sales organization during key sales interactions; Strategic solution design for cloud native technologies and bring the possibilities alive for the customers; Enabling sales and the wider VMware team in emerging technologies through training, demos and writeups; Testing and reviewing specific kubernetes projects internally – including cAPZ and cAPV;  Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements; Kubernetes and realated products at VMware include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
  - title: Field Engineer
    start: 2018
    end: 2019
    employer: Heptio
-   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, was successfully acquired by VMware in 2018.  Engagements included ":" Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind ";" Customer engagements around Kubernetes and DevOps technologies and best practice ";" Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations ";" Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
+   description: At Heptio we built an impactful and significant Kubernetes and eco-system global consultancy and delivery company, that was successfully acquired by VMware in 2018. <br/> Engagements included - Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design with scale in mind;  Customer engagements around Kubernetes and DevOps technologies and best practice;  Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations;  Evangelist of Heptio Kubernetes solutions, Heptio tooling, at external meet ups and tech exchanges
  - title: PreSales Specialist System Engineer
    start: 2016
    end: 2018
    employer: RedHat
-   description: RedHat is the world's leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies. Working as a PreSales technical specialist, I worked closely with the Sales teams to perform technical demonstrations and on-site PoCs around Automation - CloudForms, Ansible, Openshift, docker, Kubernetes, Cloud Management, Cloud provisioning;  I was involved in the evangelism of Red Hat solutions, products and culture at external meet ups, tech-exchanges and roadshows.
+   description: RedHat is the world's leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies. <br/> Working as a PreSales technical specialist, I worked closely with the Sales teams to perform technical demonstrations and on-site PoCs around Automation - CloudForms, Ansible, Openshift, docker, Kubernetes, Cloud Management, Cloud provisioning;  I was also involved in the evangelism of Red Hat solutions, products and culture at external meet ups, tech-exchanges and roadshows.
  - title: Lead Architect - Enterprise Management
    start: 2006
    end: 2016
    employer: HP Global Engineering / Fujitsu Enterprise Service
-   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. Working in various roles leading to lead arhcitect we implemented some significant milestones including ":"  successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting ";"  design and implementation of first virtualised environments with automated self service provisioning ";" developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50"%". As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
+   description: This role was as a contractor for a consortium of HP and Fujitsu to modernise a large defence-based organisation. <br/> Working in various roles leading to lead arhcitect we implemented some significant milestones including;  successful daily management of 200K endpoints (desktops, servers, users) for OS and application deployment, patching, hardening, and reporting; design and implementation of first virtualised environments with automated self service provisioning; developed RESTful API driven content synchronisation system that improved time-to-sync and operational times by 50pc. <br/> As Lead Architect, I was the technical authority on enterprise management for all high profile customer engagements.  
  - title: Global Desktop Manager - Global IT design
    start: 2005
    end: 2006
    employer: Clifford Chance
-   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions.  Here I worked on streamlining the content distribution solution ";"  developed a global reporting reporting solution for security patch delivery ";"  the introduction of virtualised test beds for all OS, patch and application testing ";"  ran global and regional team technical briefs ";"  ran internal customer solution updates and assurance
+   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution ";"  developed a global reporting reporting solution for security patch delivery ";"  the introduction of virtualised test beds for all OS, patch and application testing ";"  ran global and regional team technical briefs ";"  ran internal customer solution updates and assurance
 
 #Education is required
 education:
  - level: Bachelor of Science - (B.Sc.)
    date: 1993
-   subject: Industrial Biochemistry
+   subject: Industrial Biochemistry - First Class
    school: University of Limerick
    
  - level: Doctorate of Philosophy (Ph.D)
    date: 2003
-   subject: Oncology
+   subject: Oncology - Distinction Class
    school: University College London
 
 additionalinfo: |
