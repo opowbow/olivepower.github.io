@@ -42,8 +42,9 @@ skills:
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
+#Work experience is required
 roles:
- - title: Staff SE
+ - title: Staff Systems Engineer
    start: 2019
    end: Ongoing
    employer: VMware
@@ -53,7 +54,7 @@ roles:
    end: 2019
    employer: Heptio
    description: At Heptio we built an impactful and significant global Kubernetes startup - with a significant community following, delivering consultancy and services in the CNCF technology space.<br/> Heptio was successfully acquired by VMware in 2018. <br/> Engagements for Heptio included lots of things (being a startup) including - First on the ground engineer helping to build net new business in the UK and broader EMEA regions; Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design - with scale in mind;  Customer enablement around Kubernetes and DevOps technologies and best practice;  Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations;  Evangelist of Heptio Kubernetes solutions and tooling at external meet ups and tech exchanges
- - title: Specialist SE
+ - title: PreSales Specialist System Engineer
    start: 2016
    end: 2018
    employer: RedHat
