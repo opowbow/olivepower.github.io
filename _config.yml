@@ -44,7 +44,7 @@ skills:
 #Work experience is required
 #Work experience is required
 roles:
- - title: Staff Systems Engineer
+ - title: Staff SE
    start: 2019
    end: Ongoing
    employer: VMware
@@ -54,7 +54,7 @@ roles:
    end: 2019
    employer: Heptio
    description: At Heptio we built an impactful and significant global Kubernetes startup - with a significant community following, delivering consultancy and services in the CNCF technology space.<br/> Heptio was successfully acquired by VMware in 2018. <br/> Engagements for Heptio included lots of things (being a startup) including - First on the ground engineer helping to build net new business in the UK and broader EMEA regions; Design of custom, bespoke open source-based solutions for Kubernetes platforms for medium and largescale organisations – framed by education, requirement discovery, solution investigation and best practices for security and design - with scale in mind;  Customer enablement around Kubernetes and DevOps technologies and best practice;  Delivery of service engagements for customer – technical assessments, project delivery and technical support of kubernetes based implementations;  Evangelist of Heptio Kubernetes solutions and tooling at external meet ups and tech exchanges
- - title: PreSales Specialist System Engineer
+ - title: Specialist SE
    start: 2016
    end: 2018
    employer: RedHat
@@ -83,7 +83,7 @@ education:
    school: University College London
 
 additionalinfo: |
-   I am involved in several initiative to help drive the education and adoption of cloud native principles and technologies.<br/> This includes being part of external trainings platform, podcasts and external meetups.<br/> My major contributions are as follows:<br/><br/>
+   I am involved in several initiatives to help drive the education and adoption of cloud native principles and technologies.<br/> This includes being part of external trainings platform, podcasts and external meetups.<br/> My major contributions are as follows:<br/><br/>
    <strong><font color="green">Education</font color></strong><br/>
    <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am a resident instructor<br/>
    <a target="_blank" href="https://connect.tanzu.vmware.com/KubeAcademy-Tour-APJ.html"><strong>KubeAcademy APJ Tour</strong></a>: A series of free training on Containers and Kubernetes to be delivered in APJ over the next 4 months, at which I will be the main presenter <br/><br/>
