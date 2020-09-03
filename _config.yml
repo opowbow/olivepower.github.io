@@ -82,14 +82,14 @@ education:
    school: University College London
 
 additionalinfo: |
-   I am involved in several initiative to help drive the education and adoption of cloud native principles and technologies.<br/> This includes being part of external trianings platform, podcasts and external meetups.<br/> My major contributions are as follows:<br/>
-   <strong><font color="green">Education</font color></strong><br/>
-   <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am an instructor<br/>
+   I am involved in several initiative to help drive the education and adoption of cloud native principles and technologies.<br/> This includes being part of external trianings platform, podcasts and external meetups.<br/> My major contributions are as follows:<br/><br/>
+   <strong><font color="green">Education</font color></strong><br/><br/>
+   <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am an instructor<br/><br/>
    
-   <strong><font color="green">Podcasts</font color></strong><br/>
-   <a target="_blank" href="https://thepodlets.io/"><strong>The Podlets Podcast</strong></a>: A podcast that discusses topical cloud native subjects and concepts<br/>
+   <strong><font color="green">Podcasts</font color></strong><br/><br/>
+   <a target="_blank" href="https://thepodlets.io/"><strong>The Podlets Podcast</strong></a>: A podcast that discusses topical cloud native subjects and concepts<br/><br/><br/>
 
-   <strong><font color="green">Conferances</font color></strong><br/>
+   <strong><font color="green">Conferances</font color></strong><br/><br/>
    <a target="_blank" href="https://www.youtube.com/watch?v=faVXF52u0_s"><strong>KubeCon EU 2019</strong></a>: Ready, Steady, CKA!  - A lightening talk on how to pass the CKA exam<br/>
    <a target="_blank" href="https://www.youtube.com/watch?v=8JFRw9dZU_s"><strong>Kubernetes Summit Sydney/Seoul</strong></a>: Smooth Operator - A Rough Guide to Kubernetes Operators<br/>
    <a target="_blank" href="https://www.youtube.com/watch?v=ML8rfSOi2n0"><strong>DevOps Exchange, London</strong></a>: Open Source tooling for taming your Kubernetes wild horses<br/>
