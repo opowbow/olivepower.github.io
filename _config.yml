@@ -48,7 +48,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: VMware
-   description: The Emerging techonolgy team within VMWare is always at the forefront of direction and strategy. <br/> As part of this team, I am involved in many aspects including leading technical discussions and presentations for the sales organization during key sales interactions; Strategic solution design for cloud native technologies and bringing the possibilities alive for the customers; Enabling sales and the wider VMware team in emerging technologies through training, demos and writeups; Testing and reviewing specific kubernetes projects internally – including cAPZ and cAPV;  Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements; Kubernetes and realated products at VMware include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
+   description: The Emerging technolgy team within VMWare is always at the forefront of direction and strategy. <br/> As part of this team, I am involved in many things including leading technical discussions and presentations for the sales organization during key sales interactions; Strategic solution design for cloud native technologies and bringing the possibilities alive for customers; Enabling sales and the wider VMware teams in emerging technologies through training, demos and writeups; Testing and reviewing specific kubernetes projects internally – including cAPZ and cAPV;  Product team engagement to drive product direction and roadmap from direct feedback from customer interaction and requirements; Kubernetes and related products at VMware include those listed here <a href="https://tanzu.vmware.com/tanzu" taget="_blank">VMware Tanzu</a>.
  - title: Field Engineer
    start: 2018
    end: 2019
@@ -68,7 +68,7 @@ roles:
    start: 2005
    end: 2006
    employer: Clifford Chance
-   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> Here I worked on streamlining the content distribution solution; developed a global reporting reporting solution for security patch delivery; the introduction of virtualised test beds for all OS, patch and application testing; ran global and regional team technical briefs; ran internal customer solution updates and assurance
+   description: In this role, I was Manager of Desktop functions within 20 teams across 5 global regions. <br/> I was responsible to leading the technology decisions globally and driving their implementation. <br/> This meant co-ordinating tech design reviws with the global team leads, planning pilots and rollouts; and monitoring success.<br/> Building trust and learning to work as a team , working remotely from each other was a mojor part of this role. <br/> I was especially driven to help nurture and grow the local UK (London ) based team, who directly reported to me. <br/> I encouraged extra curricular training and learning, adn encouraged felxible working where it suited the team. <br/> From a technical perspective, the charter of the global desktop team was to improve the technology stack that managed all our endpoints (desktops, laptops and servers) including building a new streamlined, automated content distribution solution; implementing a global reporting reporting solution for security patch delivery; the introduction of virtualised test beds for all OS, patch and application testing; and running internal customer solution updates and assurances
 
 #Education is required
 education:
