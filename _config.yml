@@ -85,6 +85,8 @@ education:
 additionalinfo: |
    I am involved in several initiatives to help drive the education and adoption of cloud native principles and technologies. This includes being part of external training platforms, podcasts and external meetups. My major contributions to date are as follows:<br/><br/>
    <strong><font color="green">Education</font color></strong><br/>
+   
+   <a target="_blank" href="https://www.youtube.com/watch?v=v9GQYTc7TJc&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=4"><strong>TGIK</strong></a>: An online program that discusses cloud native concepts focussed around Kubernetes<br/>
    <a target="_blank" href="https://kube.academy/"><strong>Kube-Academy</strong></a>: A free online Kubernetes training portal for which I am a resident instructor<br/>
    <a target="_blank" href="https://connect.tanzu.vmware.com/KubeAcademy-Tour-APJ.html"><strong>KubeAcademy APJ Tour</strong></a>: A series of free training on Containers and Kubernetes to be delivered in APJ over the next 4 months, at which I will be the main presenter <br/><br/>
 
